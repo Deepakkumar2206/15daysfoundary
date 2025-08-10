@@ -45,3 +45,5 @@ $ cast send 0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512 "clearInfo()" \
 ```shell
 $ cast call 0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512 "getInfo()(string,string)" --rpc-url http://127.0.0.1:8545
 ```
+
+## This completes Day 2 of the project
